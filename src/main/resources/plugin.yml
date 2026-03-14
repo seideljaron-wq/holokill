@@ -1,0 +1,8 @@
+name: HoloKiller
+version: 1.0.0
+main: dev.holokiller.HoloKiller
+api-version: '1.20'
+commands:
+  holokill:
+    description: Remove all invisible armor stands (holograms)
+    usage: /holokill
